@@ -15,7 +15,7 @@ Simple todo list powered by smart contracts. Understand how blockchain works and
 ## Deployment 
 ```bash
 # Clone 
-$ https://github.com/suraj-k-k/to-do-dapp.git
+$ https://github.com/suraj-k-s/to-do-dapp.git
 
 # Install dependencies 
 $ npm install -g truffle@5.0.2
